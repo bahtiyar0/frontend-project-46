@@ -25,9 +25,14 @@ bin/gendiff.js __fixtures__/filepath1.json __fixtures__/filepath2.json
 
 
 Сравнение плоских файлов (JSON)
+
 bin/gendiff.js __fixtures__/filepath1.json __fixtures__/filepath2.json
 
 <a href="https://asciinema.org/a/0DD0N2mJB055iZFlsP4Fzv5pJ" target="_blank"><img src="https://asciinema.org/a/0DD0N2mJB055iZFlsP4Fzv5pJ.svg" /></a>
 
 
+Сравнение плоских файлов (yaml)
 
+bin/gendiff.js __fixtures__/filepath1.yaml __fixtures__/filepath2.yaml
+
+[![asciicast](https://asciinema.org/a/HTtHuGUVpuWtvAcylL6w5clcn.svg)](https://asciinema.org/a/HTtHuGUVpuWtvAcylL6w5clcn)
