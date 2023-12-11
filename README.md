@@ -43,3 +43,10 @@ bin/gendiff.js __fixtures__/filepath1.yaml __fixtures__/filepath2.yaml
 node bin/gendiff -f plain  __fixtures__/filepath1.yaml __fixtures__/filepath2.yaml
 
 [![asciicast](https://asciinema.org/a/P5nBH2xOpJyIurzwD8CiYaUGF.svg)](https://asciinema.org/a/P5nBH2xOpJyIurzwD8CiYaUGF)
+
+
+Вывод в json
+
+bin/gendiff.js --format json __fixtures__/filepath1.json __fixtures__/filepath2.json
+
+[![asciicast](https://asciinema.org/a/EzbQuDx0sxcUURFp4Eo8NJYKo.svg)](https://asciinema.org/a/EzbQuDx0sxcUURFp4Eo8NJYKo)
