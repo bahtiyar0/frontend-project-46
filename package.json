@@ -30,6 +30,7 @@
     "@types/jest": "^29.5.11",
     "commander": "^11.1.0",
     "lodash": "^4.17.21",
+    "npmrc": "^1.1.1",
     "readfilesync": "^1.1.5",
     "readline-sync": "^1.4.10",
     "yaml": "^2.3.4"
