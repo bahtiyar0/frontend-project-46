@@ -8,6 +8,23 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/7cfd79ce778f0eaa874b/maintainability)](https://codeclimate.com/github/bahtiyar0/frontend-project-46/maintainability)
 
 
+Вычислитель отличий – программа, определяющая разницу между двумя структурами данных. Это популярная задача, для решения которой существует множество онлайн сервисов, например http://www.jsondiff.com/. Подобный механизм используется при выводе тестов или при автоматическом отслеживании изменений в конфигурационных файлах.
+https://ru.hexlet.io/programs/frontend/projects/46
+
+
+Возможности утилиты:
+
+Поддержка разных входных форматов: yaml, json
+Генерация отчета в виде plain text, stylish и json
+
+Требования:
+Требуется node.js версия 13.2.0 и выше (проверить версию установленной node возможно командой в терминале node -v)
+
+Установка:
+1. Клонируйте данный репозиторий командой: git clone git@github.com:bahtiyar0/frontend-project-46.git
+2. Выполните установку командой: npm link
+
+
 Аргументы и опции
 
 node bin/gendiff -h 
