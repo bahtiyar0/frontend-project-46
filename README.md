@@ -3,7 +3,9 @@
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-https://github.com/OWNER/REPOSITORY/actions/workflows/WORKFLOW-FILE/badge.svg
+[![Maintainability](https://api.codeclimate.com/v1/badges/7cfd79ce778f0eaa874b/maintainability)](https://codeclimate.com/github/bahtiyar0/frontend-project-46/maintainability)
+
+[![Test Coverage](https://api.codeclimate.com/v1/badges/7cfd79ce778f0eaa874b/test_coverage)](https://codeclimate.com/github/bahtiyar0/frontend-project-46/test_coverage)
 
 Вычислитель отличий – программа, определяющая разницу между двумя структурами данных. Это популярная задача, для решения которой существует множество онлайн сервисов, например http://www.jsondiff.com/. Подобный механизм используется при выводе тестов или при автоматическом отслеживании изменений в конфигурационных файлах.
 https://ru.hexlet.io/programs/frontend/projects/46
