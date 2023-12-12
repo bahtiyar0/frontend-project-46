@@ -3,7 +3,6 @@
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-[![Test Coverage](https://api.codeclimate.com/v1/badges/7cfd79ce778f0eaa874b/test_coverage)](https://codeclimate.com/github/bahtiyar0/frontend-project-46/test_coverage)
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/7cfd79ce778f0eaa874b/maintainability)](https://codeclimate.com/github/bahtiyar0/frontend-project-46/maintainability)
 
