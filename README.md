@@ -1,6 +1,8 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/bahtiyar0/frontend-project-46/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/bahtiyar0/frontend-project-46/actions)
 
+![Deeploy badge](https://github.com/bahtiyar0/frontend-project-46/actions/workflows/nodejs.yml/badge.svg)
+
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/7cfd79ce778f0eaa874b/maintainability)](https://codeclimate.com/github/bahtiyar0/frontend-project-46/maintainability)
