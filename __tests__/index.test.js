@@ -18,14 +18,14 @@ test.each(files)('gendiff for "stylish" format', (file1, file2) => {
   const filepath1 = getFixturePath(file1);
   const filepath2 = getFixturePath(file2);
   const result = readFile('resultstylish.txt');
-  expect(getString(gendiff(filepath1, filepath2, 'stylish')).toEqual(getString(result));
+  expect(gendiff(filepath1, filepath2, 'stylish')).toEqual(getString(result));
 });
 
 test.each(files)('gendiff for "plain" format', (file1, file2) => {
   const filepath1 = getFixturePath(file1);
   const filepath2 = getFixturePath(file2);
   const result = readFile('resultplain.txt');
-  expect(getString(gendiff(filepath1, filepath2, 'plain')).toEqual(getString(result));
+  expect(gendiff(filepath1, filepath2, 'plain')).toEqual(getString(result));
 });
 
 test.each(files)('gendiff for "json" format', (file1, file2) => {
